@@ -26,6 +26,6 @@ repo](https://github.com/subfuzion/dockerbyexample.dev-examples) and change
 directory into it.
 
 ```text
-https://github.com/subfuzion/dockerbyexample.dev-examples.git
+git clone https://github.com/subfuzion/dockerbyexample.dev-examples.git
 cd dockerbyexample.dev-examples
 ```
