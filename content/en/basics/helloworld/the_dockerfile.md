@@ -9,8 +9,8 @@ Create a Dockerfile.
 {{< tabpane >}}
 {{< tab header="Dockerfile" lang="docker" >}}
 FROM alpine
-COPY helloworld.sh /
-ENTRYPOINT [ "/helloworld.sh" ]
+COPY hello.sh /
+ENTRYPOINT [ "/hello.sh" ]
 {{< /tab >}}
 {{< /tabpane >}}
 <!-- markdownlint-restore -->
