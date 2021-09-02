@@ -9,7 +9,7 @@ cascade:
   _target:
     path: "/**"
 description: >
-  A hands-on orientation to contaZinerizing your apps with Docker.
+  A hands-on orientation to containerizing your apps with Docker.
 ---
 
 Rather than learning Docker by focusing on CLI commands, this guide focuses on
