@@ -5,7 +5,7 @@ weight: 20
 
 Navigate to the `basics/time` directory in the examples repo.
 
-Take a look `get-time.sh` bash script.
+Take a look at the `get-time.sh` bash script.
 
 <!-- markdownlint-disable -->
 {{< tabpane >}}
