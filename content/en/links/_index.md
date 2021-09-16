@@ -1,7 +1,7 @@
 ---
-title: Servers
+title: Resources
 weight: 200
 hide_feedback: true
 description: >-
-  Building images for servers.
+  Links to related resources.
 ---
