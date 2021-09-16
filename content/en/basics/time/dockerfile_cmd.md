@@ -1,6 +1,7 @@
 ---
 title: "Dockerfile with CMD"
-weight: 30
+linkTitle: "Using CMD"
+weight: 1
 ---
 
 In the Dockerfile for the previous example, you used the `ENTRYPOINT`

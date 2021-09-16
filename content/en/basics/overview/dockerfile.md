@@ -1,6 +1,6 @@
 ---
 title: "Dockerfile intro"
-weight: 20
+weight: 1
 ---
 
 A [Dockerfile](https://docs.docker.com/engine/reference/builder/) is a text file
@@ -56,3 +56,14 @@ it is often ideal to use them together.
 The [helloworld](../helloworld) example will introduce `ENTRYPOINT`, and the
 [time](../time) example will expand and clarify both the `ENTRYPOINT` and
 `CMD` instructions when used separately and together.
+
+
+<!-- markdownlint-disable --> 
+{{% pageinfo %}}
+&#x1F913; **Nerd note**
+
+Keep in mind, of course, that if you're building an image that you intend to be
+used as a specialized base image for other images, it's perfectly normal not to
+set either an `ENTRYPOINT` or a `CMD`.
+{{% /pageinfo %}}
+<!-- markdownlint-restore -->

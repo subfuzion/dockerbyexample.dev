@@ -1,7 +1,7 @@
 ---
-title: The Basics
-weight: 2000
+title: Servers
+weight: 200
 hide_feedback: true
-description: >
-  Essential Docker to get you up and running.
+description: >-
+  Building images for servers.
 ---

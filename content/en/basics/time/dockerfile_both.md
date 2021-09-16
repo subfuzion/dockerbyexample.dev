@@ -1,6 +1,7 @@
 ---
-title: "Dockerfile with ENTRYPOINT"
-weight: 30
+title: "Dockerfile with both"
+linkTitle: "Combining both!"
+weight: 3
 ---
 
 What if we want to override the container to behave the way it does with an
@@ -44,7 +45,7 @@ Fetch UTC(NIST) time every 2 seconds...
 
 What happens here is that the value for `CMD` acts as a default argument that
 will be passed to the command specified by `ENTRYPOINT`. You can still pass an
-argument when you create the container and it will just override `CMD`s default
+argument when you create the container and it will just override `CMD`'s default
 value.
 
 ```text

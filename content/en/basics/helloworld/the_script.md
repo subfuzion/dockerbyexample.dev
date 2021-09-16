@@ -1,6 +1,6 @@
 ---
 title: "The shell script"
-weight: 20
+weight: 1
 ---
 
 Create a simple shell script to print a greeting.

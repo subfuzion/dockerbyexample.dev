@@ -1,6 +1,6 @@
 ---
 title: "Run a container"
-weight: 40
+weight: 3
 ---
 
 Now that you have an image, you can launch a container to run your program.

@@ -1,6 +1,6 @@
 ---
 title: "Summary"
-weight: 50
+weight: 4
 ---
 
 The `helloworld` example introduced you to the following:

@@ -1,6 +1,7 @@
 ---
 title: "Dockerfile with ENTRYPOINT"
-weight: 30
+linkTitle: "Using ENTRYPOINT"
+weight: 2
 ---
 
 Let's rebuild the `get-time` image using an `ENTRYPOINT`.

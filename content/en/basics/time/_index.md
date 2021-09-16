@@ -65,7 +65,7 @@ Fetch UTC(NIST) time every 1 seconds...
 {{% pageinfo %}}
 &#x1F632; **Note**
 
-If this doesn't work on your machine, don't worry, you've
+If this doesn't work on your machine, don't worry -- you've
 just experienced one of the big reasons why containers are so useful!
 
 Continue to the next page to containerize the time app so we can run it in a
