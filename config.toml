@@ -92,7 +92,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://dockerfiles.dev"
+url_latest_version = "https://dockerbyexample.dev"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/subfuzion/dockerbyexample.dev"
@@ -142,7 +142,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/subfuzion/dockerbye
 
 # To override individual pages, add "hide_readingtime: true" to frontmatter
 [params.ui.readingtime]
-enable = true
+enable = false
 
 [params.links]
 [[params.links.developer]]

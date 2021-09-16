@@ -1,6 +1,6 @@
 ---
 title: "Time"
-weight: 20
+weight: 30
 ---
 
 Navigate to the `basics/time` directory in the examples repo.
@@ -59,4 +59,16 @@ Fetch UTC(NIST) time every 1 seconds...
 ^C
 {{< /tab >}}
 {{< /tabpane >}}
+<!-- markdownlint-restore -->
+
+<!-- markdownlint-disable --> 
+{{% pageinfo %}}
+&#x1F632; **Note**
+
+If this doesn't work on your machine, don't worry, you've
+just experienced one of the big reasons why containers are so useful!
+
+Continue to the next page to containerize the time app so we can run it in a
+standard Linux environment that will work everywhere Docker is supported.
+{{% /pageinfo %}}
 <!-- markdownlint-restore -->

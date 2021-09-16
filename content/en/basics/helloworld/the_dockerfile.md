@@ -51,6 +51,8 @@ docker build -t hello .
 {{< /tabpane >}}
 <!-- markdownlint-restore -->
 
+## What just happened?
+
 You can see a bunch of things happened in the output. In a nutshell, the `docker
 build` command submitted the `Dockerfile` and the rest of the contents of the
 directory (anything that isn't ignored by a `.dockerignore` file, if present) to
@@ -80,6 +82,8 @@ The final `ENTRYPOINT` instruction in our Dockerfile doesn't add any layers to
 the image, which is why there's no corresponding line that says `[4/4]`. It adds
 metadata that is used to specify the process that want to execute when a
 container is created.
+
+## Try this
 
 Run the `docker image ls` command:
 

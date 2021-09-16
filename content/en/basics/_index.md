@@ -1,7 +1,9 @@
 ---
-title: The Basics
+title: Dockerfile basics
 weight: 1000
 hide_feedback: true
-description: >
-  Essential Docker to get you up and running.
+description: >-
+  Basic Dockerfile orientation.
 ---
+
+Just a bit of background and then hands-on with a few simple examples.
